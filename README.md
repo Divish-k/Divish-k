@@ -7,9 +7,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;15%2B+Projects+Completed;Clean+Code+Advocate;Always+Learning+New+Tech" />
-</p>
-font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;15%2B+Projects+Completed;Client+Projects+Private+🔒;Passionate+About+Clean+UI;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;15%2B+Projects+Completed;Client+Projects+Private+🔒;Passionate+About+Clean+UI;Always+Learning+New+Tech" />
 </p>
 
 ---
