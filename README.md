@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Divish%20K&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=hi,I 'am Divish%20K&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h3 align="center">Frontend Developer • UI/UX Specialist • Modern Web Architect</h3>
