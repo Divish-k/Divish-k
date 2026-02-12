@@ -1,3 +1,11 @@
+# Divish K – Frontend Developer | UI/UX Specialist | Web Developer
+
+Divish K is a Frontend Developer from India specializing in modern web applications, responsive website development, UI/UX design, JavaScript, React, and scalable frontend systems.
+
+He builds performance-focused web projects and maintains professional client work privately while showcasing selected public projects on GitHub.
+
+---
+
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
