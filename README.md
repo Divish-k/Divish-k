@@ -1,13 +1,15 @@
 <!-- ================= HEADER ================= -->
 
+<h1 align="center">Hi, I'm Divish 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Divish%20K&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+Frontend Developer • UI/UX Specialist • Modern Web Builder
 </p>
 
-<h3 align="center">Frontend Developer • UI/UX Specialist • Modern Web Architect</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;15%2B+Projects+Completed;Client+Projects+Private+🔒;Passionate+About+Clean+UI;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;15%2B+Projects+Completed;Clean+Code+Advocate;Always+Learning+New+Tech" />
+</p>
+font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;15%2B+Projects+Completed;Client+Projects+Private+🔒;Passionate+About+Clean+UI;Always+Learning+New+Tech" />
 </p>
 
 ---
