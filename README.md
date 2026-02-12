@@ -42,7 +42,10 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/>
+  <!---<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/>  ---!>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark"/>
+
 </p>
 
 
