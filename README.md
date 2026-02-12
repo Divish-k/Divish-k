@@ -37,28 +37,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <!-- ================= STATS ================= -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divish-k&theme=github-dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Divish-k&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divish-k&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divish-k&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-
-
----
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divish-k&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark" height="170"/> this is my code <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/> </p>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
