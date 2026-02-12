@@ -1,6 +1,9 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi, I'm Divish 👋</h1>
+<h1 align="center">
+  Hi, I'm Divish 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 <p align="center">
 Frontend Developer • UI/UX Specialist • Modern Web Builder
@@ -10,7 +13,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;15%2B+Projects+Completed;Client+Projects+Private+🔒;Passionate+About+Clean+UI;Always+Learning+New+Tech" />
 </p>
 
----
 
 <!-- ================= ABOUT ================= -->
 
