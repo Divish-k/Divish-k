@@ -46,11 +46,12 @@
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
-## 📈 Contribution Activity
+## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divish-k&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divish-k&theme=github-dark" />
 </p>
+
 
 ---
 
