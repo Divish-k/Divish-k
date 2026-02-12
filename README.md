@@ -36,12 +36,15 @@
 <!-- ================= STATS ================= -->
 
 
-## 📦 Repository Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Divish-k?style=for-the-badge&color=58A6FF&label=Public%20Repositories" />
-  <img src="https://img.shields.io/github/followers/Divish-k?style=for-the-badge&color=0A66C2&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Divish-k?style=for-the-badge&color=F7B500&label=Total%20Stars" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divish-k&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/>
 </p>
 
 
