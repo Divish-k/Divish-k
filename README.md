@@ -19,8 +19,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 <!-- ================= ABOUT ================= -->
 
 ## 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> About Me
-
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="25"> About Me
 
 - 💻 15+ Projects Completed  
 - 🔒 Professional client work kept private  
