@@ -72,7 +72,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
     <img src="https://img.shields.io/badge/Portfolio-Explore%20Now-141E30?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+  <a href="https://www.linkedin.com/in/divish-k">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
