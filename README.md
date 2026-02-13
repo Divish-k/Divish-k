@@ -18,7 +18,9 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <!-- ================= ABOUT ================= -->
 
-## 🚀 About Me
+##
+<img src="https://img.icons8.com/fluency/28/user-male-circle.png"/> About Me
+
 
 - 💻 15+ Projects Completed  
 - 🔒 Professional client work kept private  
