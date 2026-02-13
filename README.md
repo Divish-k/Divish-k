@@ -37,10 +37,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   </a>
 </p>
 
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> My Skills
-
-
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> My Skills
 
 ### ☕ Programming Languages
