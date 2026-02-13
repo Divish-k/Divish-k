@@ -41,6 +41,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> My Skills
 
 
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> My Skills
 
 ### ☕ Programming Languages
 
@@ -50,8 +51,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-
-
 ### 🎨 Frontend Development
 
 <p align="center">
@@ -59,8 +58,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
-
----
 
 ### 🛠 Software & Tools
 
@@ -70,15 +67,12 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-
-
 ### 💻 IDEs
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
-
 
 <!-- ================= STATS ================= -->
 <p align="center">
