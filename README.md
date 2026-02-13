@@ -18,7 +18,8 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <!-- ================= ABOUT ================= -->
 
-## 🚀 About Me 
+## 🚀 About Me
+<br>
 - 💻 15+ Projects Completed
 - 🔒 Professional client work kept private
 - ⚡ Focused on performance & scalable frontend systems
@@ -26,7 +27,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 <!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
-
+<br>
 <p align="center">
   <a href="https://divish-k.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20Now-141E30?style=for-the-badge&logo=vercel&logoColor=white"/>
