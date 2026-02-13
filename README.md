@@ -70,30 +70,40 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-<!-- ================= STATS ================= -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divish-k&theme=github_dark" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/>  
-  
- 
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divish-k&theme=github-dark" />
+  </p>
+</details>
 
-</p>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divish-k&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divish-k&theme=github_dark" height="170"/>
+  </p>
+</details>
 
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divish-k&theme=github-dark"/>
+  </p>
+</details>
 
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divish-k&theme=github-dark" />
-</p>
-
-
+<details>
+  <summary>🏆 Git Profile Trophies</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Divish-k&theme=darkhub"/>
+  </p>
+</details>
 
 
 
