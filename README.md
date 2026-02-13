@@ -19,7 +19,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 <!-- ================= ABOUT ================= -->
 
 ## 
-<img src="https://img.icons8.com/fluency/48/hacker.png" width="28"/> About Me
+<img src="https://img.icons8.com/fluency/48/hacker.png" width="38"/> About Me
 
 
 
