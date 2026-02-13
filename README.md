@@ -18,7 +18,13 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <!-- ================= ABOUT ================= -->
 
-## 🚀 About Me 
+##
+<picture><img src = "https://github.com/its-me-rbk/its-me-rbk/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> 
+<img align="right" src="https://github.com/its-me-rbk/its-me-rbk/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br> 
 - 💻 15+ Projects Completed
 -  🔒 Professional client work kept private
 -  ⚡ Focused on performance & scalable frontend systems
