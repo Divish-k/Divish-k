@@ -18,20 +18,9 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 
 <!-- ================= ABOUT ================= -->
 
-##
+## 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="26"> About Me
 
-
-
-
-
-
-- 💻 15+ Projects Completed  
-- 🔒 Professional client work kept private  
-- ⚡ Focused on performance & scalable frontend systems  
-- 🎯 Strong in responsive & modern UI design  
-
----
 
 <!-- ================= CONNECT ================= -->
 
