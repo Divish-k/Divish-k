@@ -59,7 +59,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
 
 ### 🛠 Software & Tools
 
@@ -69,7 +68,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+
 
 ### 💻 IDEs
 
