@@ -24,7 +24,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 - 🔒 Professional client work kept private
 - ⚡ Focused on performance & scalable frontend systems
 - 🎯 Strong in responsive & modern UI design
-- :boom: You can visit [My Portfolio Website](https://divish-k.tech/)
+- :boom: You can visit [My Portfolio Website](https://www.divishk.tech/)
 
 <!-- ================= CONNECT ================= -->
 
