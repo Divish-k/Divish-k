@@ -31,7 +31,7 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
 ## 🌐 Connect With Me
 <br>
 <p align="center">
-  <a href="https://divish-k.vercel.app/" target="_blank">
+  <a href="https://divshk.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20Now-141E30?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
