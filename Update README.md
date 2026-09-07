@@ -8,7 +8,7 @@ This is the official portfolio website of Divish K, a Frontend Developer from In
 - JavaScript
 
 ## Live Website
-https://divish-k.vercel.app
+https://divshk.tech/
 
 ## About the Developer
 Divish K is a Frontend Developer focused on building scalable, clean, and performance-optimized web applications.
