@@ -99,14 +99,6 @@ Frontend Developer • UI/UX Specialist • Modern Web Builder
   </p>
 </details>
 
-<details>
-  <summary>🏆 Git Profile Trophies</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Divish-k&theme=darkhub"/>
-  </p>
-</details>
-
 
 
 
